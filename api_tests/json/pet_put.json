@@ -1,0 +1,18 @@
+{
+  "id": 1245,
+  "category": {
+    "id": 12,
+    "name": "Cat"
+  },
+  "name": "Bichento",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 110,
+      "name": "ginger"
+    }
+  ],
+  "status": "sold"
+}
